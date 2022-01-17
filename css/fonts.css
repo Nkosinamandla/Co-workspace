@@ -1,0 +1,10 @@
+@font-face{
+    font-family: "jaycee";
+   src: url(../fonts/JayceeLooksDemoRegular.ttf);
+    font-style: normal;
+}
+@font-face{
+    font-family: "poppins";
+    src: url(../fonts/Poppins/Poppins-Medium.ttf);
+    font-style: normal
+}
